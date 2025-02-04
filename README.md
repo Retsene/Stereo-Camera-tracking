@@ -12,7 +12,7 @@ pip install -r requirements.txt
 ## Sử dụng
 Thay đổi ```id1``` và ```id2``` trong file ```variables.txt``` cho đúng id của hai camera máy đang sử dụng.
 
-Chụp ảnh bàn cờ bằng cách chạy file ```get_image.py```. Bấm 's' để chụp ảnh và bấm 'q' để thoát. Ảnh sẽ được lưu trong folder 'images'.
+Chụp ảnh bàn cờ bằng cách chạy file ```get_image.py```. Bấm 's' để chụp ảnh và bấm 'q' để thoát. Ảnh sẽ được lưu trong folder ```images```.
 
 Chạy file ```filter.py``` để chọn khoảng màu rgb hợp với vật cần theo dõi.
 ```
