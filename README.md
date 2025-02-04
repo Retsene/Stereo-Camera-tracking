@@ -23,7 +23,7 @@ python filter.py 1
 python filter.py 2
 ```
 
-Chạy file ```main.py``` để bắt đầu theo dõi vật.
+Chạy file ```main.py``` để bắt đầu theo dõi vật. Khi có vật bên trong, giá trị trục x, y, z sẽ hiện trên màn hình.
 
 
 
